@@ -1,0 +1,29 @@
+Cisco Webex Add-On Required when Starting or Joining a Meeting on a Mac
+Cisco Webex Add-On Required when starting or joining a meeting on a Mac.
+How do I install Webex Meeting software on my Mac?
+Safari or Firefox displays a Cisco Webex Add-On Required message when joining from a Mac.
+Error: 'Service Unavailable' when joining a Personal Room meeting from a Mac on Safari or Firefox.
+
+Solution:
+
+Follow the steps below to install Webex Meetings software on your Mac:
+
+On the Cisco Webex Add-On Required page, click the Download and Install Add-On button.
+
+
+Double-click on the Cisco_Webex_Add-On.dmg file that was just downloaded.
+
+
+Double-click on the Install Cisco Webex Add-On.App file.
+
+
+Click the Open button.
+
+
+Click the Install button.
+
+
+
+After a few moments, the Webex meeting window will appear. If the issue persists, follow the additional steps below:
+In Safari, go to Preferences > Security, then check Allow plugins.
+Exit and restart the browser for the changes to take effect.
